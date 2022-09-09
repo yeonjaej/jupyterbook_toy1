@@ -147,8 +147,12 @@ ax3.set_xlabel("vtx_z")
 
 
 
-    
-![png](output_9_1.png)
+```{figure} https://github.com/yeonjaej/jupyterbook_toy1/blob/main/myonlinebook/dataIO/output_10_1.png
+---
+height: 300px
+name: vertex-rootio-fig
+---
+```
     
 
 
@@ -598,13 +602,20 @@ ax3_parse.set_xlabel("vtx_z")
 
 
 
+```{figure} https://github.com/yeonjaej/jupyterbook_toy1/blob/main/myonlinebook/dataIO/output_21_1.png
+---
+height: 300px
+name: vertex-rootio-fig2
+---
+```
+    
+
     Text(0.5, 0, 'vtx_z')
 
 
 
 
-    
-![png](output_20_1.png)
+
     
 
 
